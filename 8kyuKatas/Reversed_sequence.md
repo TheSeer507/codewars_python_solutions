@@ -37,7 +37,8 @@ def reverse_seq(n):
 
 ### Solution 2 (Best Practice)
 
-```def reverseseq(n):
+```python
+def reverseseq(n):
     return list(range(n, 0, -1))
 ```
 
